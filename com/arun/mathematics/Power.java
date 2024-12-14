@@ -33,7 +33,6 @@ public class Power {
             base *= base;
             power/=2;
         }
-
         return res;
     }
 }
